@@ -3,7 +3,7 @@
 **Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)**
 
 
-9:16:07: Executing ':JvmExperience.main()'...
+10:54:41: Executing ':JvmExperience.main()'...
 
 < Task :compileJava
 < Task :processResources NO-SOURCE
